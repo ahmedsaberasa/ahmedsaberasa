@@ -45,10 +45,5 @@ My focus is on building clear dashboards and turning raw data into meaningful in
 
 ---
 
-## 🌍 Location
-📍 Cairo, Egypt  
-
----
-
 ## 📫 Contact Me
 - LinkedIn: [https://www.linkedin.com/in/1ahmedsaber/]
