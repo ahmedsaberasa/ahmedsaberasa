@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hey 👋 I'm Ahmed Saber
 
-<!--
-**ahmedsaberasa/ahmedsaberasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student | 📊 Future Data Analyst | 📈 BI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Profile Summary
+I enjoy working with data to uncover patterns and support better decision-making.  
+My focus is on building clear dashboards and turning raw data into meaningful insights.
+
+---
+
+## 🧠 What I'm Working On
+- Developing interactive dashboards using Power BI & Tableau  
+- Practicing data analysis using SQL and Excel  
+- Improving my understanding of Business Intelligence concepts  
+- Exploring real-world datasets to gain practical experience  
+
+---
+
+## 🛠️ Skills & Tools
+
+### 📊 Data & BI
+- Power BI  
+- Tableau  
+- SQL  
+- Excel  
+- Data Visualization  
+- Dashboard Development  
+
+### 💻 Programming
+- Python  
+- C / C++  
+- Java  
+- JavaScript  
+- HTML & CSS  
+
+---
+
+## 🎯 Interests
+- Business Intelligence  
+- Data Analytics  
+- Dashboard Design  
+- Data-driven decision making  
+
+---
+
+## 🌍 Location
+📍 Cairo, Egypt  
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [https://www.linkedin.com/in/1ahmedsaber/]
