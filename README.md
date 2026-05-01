@@ -1,6 +1,6 @@
 # Hey 👋 I'm Ahmed Saber
 
-🎓 Data Science Student | 📊 Future Data Analyst | 📈 BI Enthusiast  
+🎓 Data Science Student | 📊 Data Analyst | 📈 BI Enthusiast  
 
 ---
 
