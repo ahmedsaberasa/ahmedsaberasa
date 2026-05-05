@@ -78,8 +78,8 @@ I'm a **Data Science student** passionate about transforming raw data into clear
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedsaberasa&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&title_color=2D6A9F&icon_color=3A9E6C&text_color=333333" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaberasa&layout=compact&theme=default&hide_border=true&cache_seconds=1800&title_color=2D6A9F&text_color=333333" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedsaberasa&theme=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedsaberasa&theme=github" />
 
 </div>
 
