@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Saber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1ahmedsaber/)
-[![GitHub followers](https://img.shields.io/github/followers/ahmedsaberasa?style=for-the-badge&logo=github&logoColor=white&color=2D6A9F)](https://github.com/ahmedsaberasa)
+
 
 </div>
 
