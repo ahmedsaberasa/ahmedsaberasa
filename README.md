@@ -45,6 +45,7 @@ I'm a **Data Science student** passionate about transforming raw data into clear
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
@@ -71,6 +72,9 @@ I'm a **Data Science student** passionate about transforming raw data into clear
 | [📉 Customer Churn Analysis](https://github.com/ahmedsaberasa/Customer-Churn-Analysis) | Power BI dashboard identifying churn drivers and customer retention insights across segments | Power BI |
 | [👥 HR Analytics Dashboard](https://github.com/ahmedsaberasa/HR-Analytics-Dashboard) | Power BI dashboard tracking HR metrics including attrition, headcount, performance, and workforce trends | Power BI |
 | [🎓 Student Performance Analysis](https://github.com/ahmedsaberasa/Student-Performance-Analysis-Pipeline) | End-to-end EDA pipeline analyzing key factors affecting student exam scores | Python · Pandas · Matplotlib |
+| [🎬 IMDB Sentiment Analysis](https://github.com/ahmedsaberasa/IMDB-Sentiment-Analysis) | NLP pipeline to classify movie reviews as positive or negative using machine learning techniques on the IMDB dataset | Python · Pandas · Scikit-learn |
+| [🛍️ E-Commerce SQL Analysis](https://github.com/ahmedsaberasa/ecommerce-sql-analysis) | Structured SQL analysis of an e-commerce database covering sales performance, customer behavior, and product insights | SQL |
+| [❤️ Heart Disease Prediction](https://github.com/ahmedsaberasa/Heart_Disease_Prediction) | Machine learning model to predict the likelihood of heart disease based on clinical features and patient data | Python · Pandas · Scikit-learn |
 
 ---
 
